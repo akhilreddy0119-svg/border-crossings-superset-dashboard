@@ -1,4 +1,4 @@
-🇺🇸 Border Crossings Superset Dashboard
+BORDER CROSSINGS SUPERSET DASHBOARD
 Exploring U.S. Border Crossings (1996–2025): Seasonal Patterns, Transportation Modes & COVID-19 Impacts
 
 This project analyzes 38K+ U.S. Border Crossing records from the Bureau of Transportation Statistics (BTS) using Apache Superset.
