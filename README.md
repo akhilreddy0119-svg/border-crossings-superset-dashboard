@@ -1,5 +1,3 @@
-# border-crossings-superset-dashboard
-Apache Superset dashboard exploring US border crossings (1996–2025) with seasonal patterns, transportation modes &amp; COVID-19 impacts.
 🇺🇸 Border Crossings Superset Dashboard
 Exploring U.S. Border Crossings (1996–2025): Seasonal Patterns, Transportation Modes & COVID-19 Impacts
 
